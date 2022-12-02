@@ -18,12 +18,6 @@ public class LoseMenu : MonoBehaviour
         quitBtn.onClick.AddListener(QuitGame);
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-
-    }
-
     void RestartGame()
     {
         // reload the current scene

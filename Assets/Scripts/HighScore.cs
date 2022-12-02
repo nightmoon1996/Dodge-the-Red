@@ -26,12 +26,6 @@ public class HighScore : MonoBehaviour
         }
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
     // save the high score and high score name to player prefs
     public void SaveHighScore()
     {

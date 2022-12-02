@@ -4,18 +4,6 @@ using UnityEngine;
 
 public class WinPoint : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-
-    }
-    
     // if the player collides with the win point and have more than goal points, the game is won and show the win screen UI element and hide the game UI element and hide the player object
     private void OnTriggerEnter(Collider other)
     {

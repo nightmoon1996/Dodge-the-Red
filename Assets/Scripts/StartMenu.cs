@@ -19,12 +19,6 @@ public class StartMenu : MonoBehaviour
         quitBtn.onClick.AddListener(QuitGame);
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
     void StartGame()
     {
         // load the game scene
