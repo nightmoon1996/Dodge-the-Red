@@ -2,7 +2,7 @@
 Welcome to Ball Dodger! In this game, you will control a ball and try to dodge incoming red blocks for as long as possible to set a high score.
 
 ## How to play
-* Use the left and right arrow keys to move the ball left and right.
+* Use the A and D keys to move the ball left and right.
 * Try to avoid the incoming red blocks. If you collide with one, the game will end.
 * The longer you survive, the higher your score will be. Can you beat the high score?
 
